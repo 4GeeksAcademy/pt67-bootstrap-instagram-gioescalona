@@ -1,0 +1,48 @@
+
+   
+   
+   .header {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    padding: 10px;
+    font-family:helvetica;
+    font-size:larger;
+    align-items: center;
+}
+#location {
+    color:grey;
+    font-size: small;
+}
+#comments {
+    color:gray;
+}
+#date {
+    color:gray;
+    font-size: small;
+}
+.img1 {
+    width: 100%;
+}
+.icons {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    padding: 5px;
+    font-size: 25px;
+    
+}
+
+.fa-regular {
+    margin: 10px;
+}
+
+
+.foot {
+    margin:auto;
+    padding: 10px;
+    font-family:helvetica;
+}
+a {
+    text-decoration: none;
+}
