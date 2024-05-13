@@ -46,3 +46,7 @@
 a {
     text-decoration: none;
 }
+
+strong {
+    text-transform: uppercase;
+  }
